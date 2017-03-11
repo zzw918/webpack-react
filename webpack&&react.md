@@ -1,6 +1,6 @@
 ##使用webpack搭建的React环境##
 
-### 这里仅仅是一个示范性的代码， 在[我的博客](www.cnblogs.com/zhuzhenwei918) 中详细介绍了如何使用webpack 搭建React的环境
+### 这里仅仅是一个示范性的代码， 在[我的博客](http://www.cnblogs.com/zhuzhenwei918) 中详细介绍了如何使用webpack 搭建React的环境
 
 
 ***
